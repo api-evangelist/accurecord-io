@@ -66,7 +66,7 @@
 
 Accurecord provides an AI‑enhanced ICD‑10‑CM coding API and coding professional platform. It offers REST endpoints for code lookup, HCC mappings, and AI‑driven coding guidance, built for medical coders and developers. The service runs on Microsoft Azure, includes HIPAA/BAA compliance, and supplies evidence‑linked coding results for clinical text and chart uploads.
 
-**Areas:** Company · Healthcare · AI · Coding · API
+**Areas:** Company · Healthcare · Artificial Intelligence · Coding
 
 ## Accurecord on APIs.io
 
@@ -84,15 +84,15 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accurecord Io Domain Security](https://apis.io/security/accurecord-io/accurecord-io-domain-security/)
-- [Accurecord Io Trust Center](https://apis.io/security/accurecord-io/accurecord-io-trust-center/)
-- [Accurecord Io Vulnerability Disclosure](https://apis.io/security/accurecord-io/accurecord-io-vulnerability-disclosure/)
+- [Accurecord Domain Security](https://apis.io/security/accurecord-io/accurecord-io-domain-security/)
+- [Accurecord Trust Center](https://apis.io/security/accurecord-io/accurecord-io-trust-center/)
+- [Accurecord Vulnerability Disclosure](https://apis.io/security/accurecord-io/accurecord-io-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Accurecord Io Plans Pricing](https://apis.io/plans/accurecord-io/accurecord-io-plans-pricing/)
+- [Accurecord Plans Pricing](https://apis.io/plans/accurecord-io/accurecord-io-plans-pricing/)
 
 ## Where to find this API
 
@@ -108,18 +108,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 32.4** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 34.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 10.5 |
+| Contract governance | 18.2 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 16.0 |
-| Access clarity | 88.9 |
+| Access clarity | 93.6 |
 
-**Agent readiness 6.3** — agent-aware
+**Agent readiness 7.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | — |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -144,6 +144,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 22.1** — Health
 
